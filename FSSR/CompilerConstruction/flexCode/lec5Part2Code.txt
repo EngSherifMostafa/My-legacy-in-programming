@@ -1,0 +1,36 @@
+%{
+	int count=0;
+%}
+
+
+lid [A-Za-z]+
+rw  if|else|while|for|switch
+digit [0-9]
+num [0-9]+
+comm \/\/.+\n
+
+%%
+{digit}	{printf("<%s,digit>",yytext);}
+{num}	{printf("<%s,num>",yytext);}
+{comm}  {printf("# of comment = %d\n",++count);}
+"="		{printf("<=,Equal>\n");}
+"=="	{printf("<==,Compare>\n");}
+"+"		{printf("<+,Plus>\n");}
+{rw}    {printf("<%s,reservedWord>\n",yytext);}
+{lid}	{printf("<%s,variableName>\n",yytext);}
+.		{printf("<%s,illegal>\n",yytext);}
+%%
+
+
+int yywrap()
+{
+	return 1;
+}
+
+int main()
+{
+	printf("Welcome to flex please enter your code\n");
+	yylex();
+	printf("total number of comments = %d\n",count);
+	return 0;
+}
