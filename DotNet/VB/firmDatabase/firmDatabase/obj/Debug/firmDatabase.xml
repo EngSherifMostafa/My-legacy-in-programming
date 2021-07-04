@@ -1,0 +1,336 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+firmDatabase
+</name>
+</assembly>
+<members>
+<member name="T:firmDatabase.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:firmDatabase.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:firmDatabase.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet.departmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet.employeeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet.empPhonesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet.Table1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet.Table2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet.Table3DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet.departmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet.employeeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet.empPhonesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet.Table1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet.Table2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet.Table3Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet.departmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet.employeeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet.empPhonesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet.Table1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet.Table2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet.Table3RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSetTableAdapters.departmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSetTableAdapters.employeeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSetTableAdapters.empPhonesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSetTableAdapters.Table1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSetTableAdapters.Table2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSetTableAdapters.Table3TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:firmDatabase.EmpDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(firmDatabase.EmpDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:firmDatabase.EmpDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(firmDatabase.EmpDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:firmDatabase.EmpDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(firmDatabase.EmpDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:firmDatabase.EmpDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:firmDatabase.EmpDBDataSetTableAdapters.TableAdapterManager.UpdateAll(firmDatabase.EmpDBDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1.departmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1.employeeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1.empPhonesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1.empDeptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1.employeePhonesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1.departmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1.employeeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1.empPhonesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1.empDeptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1.employeePhonesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1.departmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1.employeeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1.empPhonesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1.empDeptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1.employeePhonesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1TableAdapters.departmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1TableAdapters.employeeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1TableAdapters.empPhonesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1TableAdapters.empDeptTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1TableAdapters.employeePhonesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:firmDatabase.EmpDBDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(firmDatabase.EmpDBDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:firmDatabase.EmpDBDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(firmDatabase.EmpDBDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:firmDatabase.EmpDBDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(firmDatabase.EmpDBDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:firmDatabase.EmpDBDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:firmDatabase.EmpDBDataSet1TableAdapters.TableAdapterManager.UpdateAll(firmDatabase.EmpDBDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:firmDatabase.EmpDBDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

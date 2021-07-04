@@ -1,0 +1,13 @@
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\mailManager\mailManager\obj\Debug\Mail_Manager.vbprojAssemblyReference.cache
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\mailManager\mailManager\obj\Debug\Mail_Manager.vbproj.GenerateResource.cache
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\mailManager\mailManager\obj\Debug\Mail_Manager.vbproj.CoreCompileInputs.cache
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\mailManager\mailManager\obj\Debug\Mail_Manager.LoginForm.resources
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\mailManager\mailManager\obj\Debug\Mail_Manager.MainForm.resources
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\mailManager\mailManager\bin\Debug\Mail_Manager.exe.config
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\mailManager\mailManager\bin\Debug\Mail_Manager.exe
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\mailManager\mailManager\bin\Debug\Mail_Manager.pdb
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\mailManager\mailManager\bin\Debug\Mail_Manager.xml
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\mailManager\mailManager\obj\Debug\Mail_Manager.exe
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\mailManager\mailManager\obj\Debug\Mail_Manager.xml
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\mailManager\mailManager\obj\Debug\Mail_Manager.pdb
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\mailManager\mailManager\obj\Debug\Mail_Manager.Resources.resources

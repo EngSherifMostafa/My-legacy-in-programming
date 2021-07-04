@@ -1,0 +1,9 @@
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\BeEasy\AidClasses\bin\Debug\BeEasy.dll
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\BeEasy\AidClasses\bin\Debug\BeEasy.pdb
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\BeEasy\AidClasses\bin\Debug\BeEasy.xml
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\BeEasy\AidClasses\obj\Debug\BeEasy.Resources.resources
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\BeEasy\AidClasses\obj\Debug\BeEasy.vbproj.GenerateResource.cache
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\BeEasy\AidClasses\obj\Debug\BeEasy.vbproj.CoreCompileInputs.cache
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\BeEasy\AidClasses\obj\Debug\BeEasy.dll
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\BeEasy\AidClasses\obj\Debug\BeEasy.xml
+C:\Users\EngSherifMostafa\Desktop\Github\dotNet-master\vb.net\BeEasy\AidClasses\obj\Debug\BeEasy.pdb

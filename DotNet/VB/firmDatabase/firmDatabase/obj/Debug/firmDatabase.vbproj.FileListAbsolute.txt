@@ -1,0 +1,12 @@
+D:\Software engineering\Programming\Visual basic\VB.net\firmDatabase\firmDatabase\bin\Debug\firmDatabase.exe
+D:\Software engineering\Programming\Visual basic\VB.net\firmDatabase\firmDatabase\bin\Debug\firmDatabase.pdb
+D:\Software engineering\Programming\Visual basic\VB.net\firmDatabase\firmDatabase\bin\Debug\firmDatabase.xml
+D:\Software engineering\Programming\Visual basic\VB.net\firmDatabase\firmDatabase\obj\Debug\firmDatabase.empForm.resources
+D:\Software engineering\Programming\Visual basic\VB.net\firmDatabase\firmDatabase\obj\Debug\firmDatabase.Resources.resources
+D:\Software engineering\Programming\Visual basic\VB.net\firmDatabase\firmDatabase\obj\Debug\firmDatabase.vbproj.GenerateResource.Cache
+D:\Software engineering\Programming\Visual basic\VB.net\firmDatabase\firmDatabase\obj\Debug\firmDatabase.vbproj.CoreCompileInputs.cache
+D:\Software engineering\Programming\Visual basic\VB.net\firmDatabase\firmDatabase\obj\Debug\firmDatabase.exe
+D:\Software engineering\Programming\Visual basic\VB.net\firmDatabase\firmDatabase\obj\Debug\firmDatabase.xml
+D:\Software engineering\Programming\Visual basic\VB.net\firmDatabase\firmDatabase\obj\Debug\firmDatabase.pdb
+D:\Software engineering\Programming\Visual basic\VB.net\firmDatabase\firmDatabase\bin\Debug\EmpDB.accdb
+D:\Software engineering\Programming\Visual basic\VB.net\firmDatabase\firmDatabase\bin\Debug\firmDatabase.exe.config

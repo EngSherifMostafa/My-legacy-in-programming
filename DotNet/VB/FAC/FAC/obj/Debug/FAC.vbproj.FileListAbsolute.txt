@@ -1,0 +1,11 @@
+D:\Software engineering\Programming\Visual basic\VB.net\FAC\FAC\bin\Debug\FAC.exe
+D:\Software engineering\Programming\Visual basic\VB.net\FAC\FAC\bin\Debug\FAC.pdb
+D:\Software engineering\Programming\Visual basic\VB.net\FAC\FAC\bin\Debug\FAC.xml
+D:\Software engineering\Programming\Visual basic\VB.net\FAC\FAC\obj\Debug\FAC.vbprojAssemblyReference.cache
+D:\Software engineering\Programming\Visual basic\VB.net\FAC\FAC\obj\Debug\FAC.Resources.resources
+D:\Software engineering\Programming\Visual basic\VB.net\FAC\FAC\obj\Debug\FAC.vbproj.GenerateResource.cache
+D:\Software engineering\Programming\Visual basic\VB.net\FAC\FAC\obj\Debug\FAC.vbproj.CoreCompileInputs.cache
+D:\Software engineering\Programming\Visual basic\VB.net\FAC\FAC\obj\Debug\FAC.exe
+D:\Software engineering\Programming\Visual basic\VB.net\FAC\FAC\obj\Debug\FAC.xml
+D:\Software engineering\Programming\Visual basic\VB.net\FAC\FAC\obj\Debug\FAC.pdb
+D:\Software engineering\Programming\Visual basic\VB.net\FAC\FAC\obj\Debug\FAC.MainForm.resources
