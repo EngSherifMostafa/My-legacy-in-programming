@@ -1,0 +1,31 @@
+- strict or proper tree		-> two or no child
+- complete tree				-> all levels are full except the so far one
+- perfect tree				-> all nodes have two childs except leaves
+- balanced tree				-> | height of left - height of right | <= 1
+- binary search tree (BST)	->
+		A node’s left child must have a 
+		key less than its parent.
+	
+		A node’s right child must have a 
+		key greater than (or equal to in 
+		case of accepting duplication of key)
+		its parent.
+	
+		Both the left and right sub-trees
+		must also be binary search trees
+		
+		search, insert, remove = log (n)
+	
+	
+height of empty tree			= -1
+height of tree with one node	= 0
+node							= edge - 1
+max leaf						= 2^height
+max nodes						= 2^(height + 1) - 1
+max nodes in level				= 2^level_num
+left node						= 2 * index + 1
+right node						= 2 * index + 2
+parent node						= (index - 1) / 2
+
+tree simulation
+https://dsvisualizer.isatvik.com/treetraversals

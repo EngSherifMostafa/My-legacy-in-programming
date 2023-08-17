@@ -1,0 +1,56 @@
+				Bubble	|	Selection	|	Insertion 
+comparison  	 n^2/2			n^2				n^2
+swaps			 n^2/4			n			Copies n^2
+complexity		 n^2			n^2				n^2
+
+***********************************************************************************
+
+Bubble sort
+------------
+repeatedly swaps adjacent elements if they are in the wrong order using two for loops
+
+***********************************************************************************
+
+Selection sort
+---------------
+repeatedly find ( smallest or largest ) and swapped with first element
+
+improvement for large records
+
+***********************************************************************************
+
+Insertion Sort
+---------------
+pick an element an then insert it at the appropriate position
+element a[1] is inserted before or after a[0], so that 
+a[0] and a[1] are sorted.
+then a[2] is inserted either before a[0] or between a[0] 
+and a[1] or after a[1] so that, a[0], a[1] and a[2] are sorted .
+
+twice as fast as the bubble sort and 
+faster than the selection sort
+
+***********************************************************************************
+
+Quick sort
+-----------
+
+it’s the fastest using randomized version
+This is only true for internal or in-memory sorting
+for sorting data in disk files, other algorithms may be better
+
+complexity: O(N*log(n))
+
+***********************************************************************************
+
+Stability: 	two objects with equal keys appear in the same order in sorted output
+			as they appear in the input array to be sorted.
+			
+			stable:
+					Insertion sort
+					selection sort
+					Merge Sort
+					Bubble Sort 
+			unstable:
+					Heap Sort 
+					Quick Sort
